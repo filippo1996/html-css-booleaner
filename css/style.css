@@ -66,6 +66,25 @@ td{
     width: 25%;
 }
 
+.img{
+    width: 312px;
+    height: 208px;
+    background-repeat: no-repeat;
+}
 
+.monitor{
+    background-image: url(../img/monitor.jpg);
+}
+
+.title-product{
+    padding-top: 10px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.graph{
+    background-image: url(../img/graph.jpg);
+}
 
 /* fine main */
