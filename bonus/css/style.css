@@ -27,7 +27,38 @@ header{
 /* inizio main */
 
 main{
-    margin-top: 100px;
+    margin: 100px 100px 0 100px;
 }
+
+/* inizio sezione titolo + img + p */
+
+section.first{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.first > div {
+    text-align: center;
+}
+
+.first > div img {
+    border: 3px solid white;
+}
+
+img[src="img/tim-1.jpg"]{
+    margin-right: 40px;
+}
+
+img[src="img/tim-2.jpg"]{
+    margin-left: 40px;
+}
+
+/* fine sezione titolo + img + p */
 
 /* fine main */
