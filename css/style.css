@@ -1,0 +1,17 @@
+
+
+/* inizio Header */
+
+header{
+    background: rgb(97, 160, 248) url(../img/pattern.png) repeat-x;
+    background-size: 25%;
+    height: 100px;
+}
+
+.logo{
+    width: 200px;
+    margin-top: 40px;
+}
+
+/* fine Header */
+
