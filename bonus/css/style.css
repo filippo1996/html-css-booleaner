@@ -6,6 +6,10 @@
     box-sizing: border-box;
 }
 
+body{
+    background-color: rgba(128,128,128, 0.5);
+}
+
 .collapse{
     border-collapse: collapse;
 }
@@ -117,5 +121,51 @@ td{
 }
 
 /* fine sezione third */
+
+/* inizio sezione fourth */
+
+section.fourth{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    padding: 60px;
+    background-color: rgba(35, 62, 81, 0.5);
+    border-radius: 10px;
+}
+
+.fourth h3{
+    font-size: 30px;
+    border: 2px solid black;
+    width: 40%;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.img-monitor{
+    background-image: url(../img/monitor.jpg);
+}
+
+.options{
+    width: 312px;
+    height: 208px;
+    display: inline-block;
+    margin-right: 50px;
+}
+
+.options:hover{
+    border: 3px solid white;
+}
+
+.options h4{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+.img-graph{
+    background-image: url(../img/graph.jpg);
+}
+
+/* fine sezione fourth */
 
 /* fine main */
