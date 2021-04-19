@@ -1,0 +1,33 @@
+/* formattazione */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* inizio header */
+
+header{
+    background: rgb(97, 160, 248) url(../img/pattern.png) repeat-x;
+    background-size: contain;
+    border-bottom: 1px solid black;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.logo{
+    width: 200px;
+    margin: 20px 0 10px 10px;
+}
+
+/* fine header */
+
+/* inizio main */
+
+main{
+    margin-top: 100px;
+}
+
+/* fine main */
